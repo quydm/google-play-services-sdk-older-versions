@@ -6,6 +6,11 @@ But in recent revisions, Google broke down Google Play Services into multiple li
 
 Don't worry, you can download from Google servers using link below or download from my repo:
 
+## Edited
+
+Remove revisions: r30, r31 and r32, because they don't have `libproject` :(. You should use Android Studio as soon as possible. If you still want to use Eclipse or other IDE, you can downgrade back to revision 29.
+
+
 https://dl-ssl.google.com/android/repository/google_play_services_3159130_r09.zip
 
 https://dl-ssl.google.com/android/repository/google_play_services_3225130_r10.zip
@@ -45,12 +50,6 @@ https://dl-ssl.google.com/android/repository/google_play_services_8115000_r27.zi
 https://dl-ssl.google.com/android/repository/google_play_services_8298000_r28.zip
 
 https://dl-ssl.google.com/android/repository/google_play_services_8487000_r29.zip
-
-https://dl-ssl.google.com/android/repository/google_play_services_9080000_r30.zip
-
-https://dl-ssl.google.com/android/repository/google_play_services_9256000_r31.zip
-
-https://dl-ssl.google.com/android/repository/google_play_services_945200_r32.zip
 
 
 ## References
