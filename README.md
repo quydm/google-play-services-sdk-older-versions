@@ -10,6 +10,21 @@ Don't worry, you can download from Google servers using link below or download f
 
 Remove revisions: r30, r31 and r32, because they don't have `libproject` :(. You should use Android Studio as soon as possible. If you still want to use Eclipse or other IDE, you can downgrade back to revision 29.
 
+https://dl-ssl.google.com/android/repository/google_play_services_1013.zip
+
+https://dl-ssl.google.com/android/repository/google_play_services_2010110_r02.zip
+
+https://dl-ssl.google.com/android/repository/google_play_services_2010110_r03.zip
+
+https://dl-ssl.google.com/android/repository/google_play_services_2012110_r04.zip
+
+https://dl-ssl.google.com/android/repository/google_play_services_3025110_r05.zip
+
+https://dl-ssl.google.com/android/repository/google_play_services_3027110_r06.zip
+
+https://dl-ssl.google.com/android/repository/google_play_services_3136110_r07.zip
+
+https://dl-ssl.google.com/android/repository/google_play_services_3159130_r08.zip
 
 https://dl-ssl.google.com/android/repository/google_play_services_3159130_r09.zip
 
